@@ -1,0 +1,576 @@
+丁 street, ward
+上 above, up, over
+下 below, down, under, beneath
+不 not, non-, un-
+世 generation, world, society
+両 both
+中 middle, in, inside, center
+丸 circular, circle, round
+主 master, main thing, lord
+久 long time
+乗 ride
+予 beforehand, previous
+争 conflict, dispute, argue
+事 action, matter, thing
+井 water well; Fukui
+交 mix, mingle; intersect
+京 capital
+仕 do, doing, serve
+他 other
+付 attach, adhere
+代 substitute, replace; period, age, era
+令 orders, command
+以 by means of, -than
+仮 temporary; sham
+仲 relationship
+件 matter, affair
+休 rest
+会 meet, party, association
+伝 transmit, tell
+位 rank, grade
+低 lower, short
+佐 Saga, assistant, help
+体 body, substance
+作 make
+使 use
+例 example
+便 convenience
+係 connection, person in charge
+信 believe, trust, faith
+倉 warehouse
+個 individual, counter for small things
+倍 double, times, multiply
+候 climate, weather; candidate
+借 borrow,
+健 healthy, health
+側 side
+元 origin, former
+兆 omen, sign; 10^12, trillion
+先 previous, past, former; ahead
+児 newborn babe, child; Kagoshima
+全 all, whole
+公 public, governmental
+共 together
+兵 soldier
+具 tool, utensil
+典 rule, code
+内 inside, within
+写 copy
+冷 cool, cold
+出 exit, go out, come out
+分 part; minute; separate, understand; Oita
+切 cut
+刊 edition; publish, carve
+列 row, line, column
+初 first, beginning
+別 separate, another
+刷 printing
+前 front, before
+副 vice-, assistant
+力 power, strength
+功 achievement, accomplishment
+加 add, increase, include
+助 help, rescue, save
+努 toil, hard work, great effort
+労 labor
+効 effective, efficacy, efficiency
+勇 courage, bravery, valor
+勉 exertion, diligence
+動 move, shake
+勝 win, victory
+包 wrap
+化 change
+医 medicine
+午 noon
+半 half
+卒 graduate
+協 cooperation
+単 simple, singular
+博 exhibition, exposition; Dr., Ph.D., 
+印 seal, mark, stamp, symbol
+厚 thick
+原 original, fundamental; field
+去 past
+参 participate; going, coming
+取 take
+受 accept, receive
+句 paragraph, phrase
+可 possible, passable
+台 machine, pedestal
+号 number; nickname
+司 director, official
+各 each, every
+合 fit, suit, join
+吉 good luck
+同 same
+名 name, famous, reputation
+向 yonder, facing, turn toward
+君 buddy, you, male name suffix
+告 announce, inform
+命 fate, destiny, life
+和 peace, harmony; Japan, Japanese style
+品 product, article, goods
+員 member
+唱 chant, recite
+商 merchandise, commerce
+問 question, problem
+喜 rejoice, joy
+営 manage, conduct (business)
+器 container, vessel
+回 -times, revolve, turn, rotate
+因 cause, factor
+囲 surround, besiege
+図 diagram, map
+固 hard
+園 park, garden
+土 dirt, soil, earth, ground
+圧 pressure; suppression, oppression
+在 exist
+地 earth, ground
+均 equal, average
+型 model, type, mould
+基 foundation, fundamentals
+埼 Saitama, cape (geography)
+境 boundary, border
+士 samurai, gentleman, scholar
+変 change, strange, weird
+多 many, much, lots of
+天 heaven, sky
+太 fat, plump, thick
+夫 husband
+失 fault, loss
+奈 Nara
+女 woman
+好 like, fond, pleasing
+始 begin, start
+委 committee
+媛 Ehime, princess
+子 child, particle
+字 character, letter
+学 study, learning
+守 protect, defend, guard
+安 relax, cheap
+官 government, bureaucrat
+定 determine
+実 truth, reality; fruit, seed, nut
+室 room
+宮 Shinto shrine, palace
+害 damage, harm, injury
+家 house, home
+宿 inn, lodge
+寄 approach, draw near
+富 rich, wealth
+察 guess, judge
+寺 temple
+対 versus, opposite
+局 bureau, department
+居 alive, to be
+屋 roof; shop, store
+屯 barracks
+岐 Gifu, branch off
+岡 hill, knoll
+岩 boulder, rock
+崎 Nagasaki,  cape (geography)
+川 river
+州 state, province, county
+巣 nest, web, hive
+工 construction, industry
+差 distinction, variation, discrepancy
+市 city, town, market
+希 wish, hope
+席 seat
+帯 sash, belt, obi
+帰 return (home)
+帳 notebook
+平 flat, even, peace
+年 year
+幸 happiness, fortune
+幹 tree trunk; main part
+底 bottom
+府 government
+度 degrees, occurrence
+庫 storage, warehouse
+庭 garden, yard
+建 build, construct
+式 ritual, ceremony; equation
+引 pull
+弟 younger brother
+弱 weak
+当 correct, right, success
+形 shape, form, appearance
+役 service, duty
+往 depart, journey
+待 wait
+徒 junior, follower; on foot
+従 obey; accompany, follow
+得 acquire, obtain, gain, get
+徳 virtue, benevolence; Tokushima
+必 certain, inevitable
+応 respond, reply; apply
+快 pleasant, agreeable, comfortable
+念 thought, idea, desire
+急 hurry, sudden
+息 breath; son
+悪 bad, evil
+悲 sad
+情 feelings, emotion; circumstances, facts
+想 concept, idea
+意 idea, mind, desire
+愛 love
+感 feeling, sensation, emotion
+慣 accustomed, get used to
+成 become
+戦 war, battle
+所 place
+才 genius; years old
+打 strike, hit
+技 skill, craft
+投 throw, discard; abandon, give up
+折 fold, bend; break, snap
+拾 pick up, gather
+指 finger
+挙 raise, plan
+採 gather, pick, take
+支 support, branch
+改 renew, modify, mend
+放 release, shoot, emit
+故 circumstance, reason
+救 rescue, salvation
+敗 failure, fail
+教 teach
+散 scatter, disperse
+数 number, count, amount
+整 arrange, organize
+文 writing, sentence, literature
+料 fee, materials, ingredient
+方 direction; person
+日 day, sun
+旧 former, old times
+明 bright
+易 easy, simple
+昔 long ago, old times
+星 star
+映 reflect, reflection
+春 spring (season)
+昭 shining, bright; Showa
+暗 dark
+曲 bend; music
+最 most
+有 have, exist, be
+服 clothing
+望 hope, desire
+朝 morning
+期 period of time, time period
+未 not yet
+末 end, the end
+本 book, origin, real, main
+札 bill, tag, label, note
+材 lumber, material, timber
+村 village
+束 bundle
+来 come, next
+板 plank, board
+果 fruit, reward
+柱 pillar, post
+栃 Tochigi, chestnut species
+栄 flourish, prosper
+校 school
+根 root
+格 status, rank; character
+案 plan, proposition
+桜 cherry blossom
+梨 Yamanashi, pear
+械 contraption
+検 test
+業 business
+極 extreme, poles (electric, magnetic, Earth's)
+楽 comfort, ease, pleasure; music
+様 formal name title, sama; way, manner
+標 signpost
+権 rights, authority
+横 side, sideways, horizontal
+機 machine
+欠 lack
+次 next
+正 correct, justice
+歯 tooth, teeth
+歴 continuation, passage of time
+残 remainder, leftover
+殺 kill, murder
+毒 poison, venom
+毛 fur, hair
+民 people(s), nation
+気 energy, spirit
+氷 ice
+永 eternity
+求 request
+池 pond
+決 decide
+沖 open sea; Okinawa; rising up
+油 oil
+治 cure, heal; reign, rule
+法 method, law
+波 waves
+泣 cry, weep
+注 pour
+洋 Western style; ocean
+洗 wash
+活 lively, active, alive
+流 stream, current, flow
+浅 shallow, superficial
+浴 bathe, bask in
+消 extinguish, erase, turn off, disappear
+液 fluid, liquid
+深 deep
+清 pure, cleanse
+済 come to an end, settle (debt, matter, etc.)
+減 decrease, decline, dwindle
+港 harbor, port
+湯 hot water
+満 full, satisfy
+滋 Shiga, nourishing
+演 performance, perform
+漢 Chinese
+潔 pure, righteous, gallant
+潟 Niigata, lagoon
+灯 lamp, a light
+災 disaster, calamity
+点 point, decimal, spot
+無 nothing, none
+然 nature
+焼 bake, cook, burn
+照 illuminate, shine; bashful
+熊 bear; Kumamoto
+熱 heat, fever
+爰 football
+牧 pasture
+物 thing, object
+王 king
+現 present, current, existing
+理 logic, reason
+生 life, birth
+産 give birth, products
+用 task, utilize, use
+由 reason
+申 say humbly
+町 town, block
+画 drawing, picture, painting
+界 world
+畑 field, farm
+番 turn, number in a series, ordinal number
+発 departure, emit
+登 climb
+的 -like, -ish, -al; target
+皮 pelt, skin, hide
+益 benefit, profit, gains
+目 eye
+直 fix, direct, straight
+相 mutual
+省 conserve; ministry of government
+真 reality
+着 wear; arrive
+短 short
+研 sharpen, study
+確 certain; confirm
+礼 thanks, salute
+社 company, shrine
+祝 celebrate
+神 God
+票 ballot, ticket; sign
+祭 festival
+禁 prohibit, forbid
+福 luck, blessing, fortune
+私 I, private, me
+科 course, department; science
+移 shift, move
+種 kind, type, variety
+積 accumulate, pile up; volume
+空 sky; empty, void
+立 stand
+章 chapter
+競 compete, competition
+笛 flute
+第 ordinal number person, No.
+筆 writing brush
+等 equal; etc.
+答 answer, response, reply
+算 calculate
+管 pipe, tube; control, jurisdiction
+箱 box, chest, bin
+節 season, period; joint, knuckle
+米 rice, USA
+精 spirit, energy; refined, pure
+紀 account, narrative, annals; geologic period
+約 promise
+紋 family crest
+納 supply
+純 pure, genuine
+級 level, rank, grade
+紛 distract
+細 thin, slender, narrow
+紳 sire, gentleman
+紹 introduce
+終 end, finish, last
+組 group, association, team
+経 passage of time, pass through
+結 tie, bind
+絡 entangle, entwine, coil around
+給 salary, grant, bestow on
+統 unite; ruling, governing
+絵 painting, drawing, sketch
+絶 extinction, die out; discontinue, sever
+継 inherit
+続 continue
+維 maintain; fiber
+綱 cable, thick rope
+網 netting
+総 whole, all, total
+緒 together; strap, thong
+締 tighten
+編 knit; editing
+緩 loose, relaxed
+緯 latitude, horizontal
+練 practice
+縁 edge, border; relation
+縄 rope, cord; Okinawa
+縛 bind, restrain
+縦 vertical
+縮 shrink, contract
+績 exploits, achievements
+繕 mend, repair, adjust
+繰 spin, winding
+罪 guilt, sin
+置 put, place
+群 flock, herd; Gunma
+義 righteousness, morality
+羽 feather, wing
+老 elderly, old age
+考 think about, consider
+者 someone, somebody
+耕 plow, till
+聞 hear, listen; ask
+育 nurture, raise
+胃 stomach
+臣 servant, retainer
+自 self, oneself
+興 interest, fascination
+航 navigate, sail, fly
+良 good
+芸 acting, art
+芽 sprout
+苦 suffering, bitter, pain
+英 England, English
+茨 Ibaraki, briar
+草 grass, weeds
+荷 luggage, baggage, cargo
+菜 vegetable
+落 fall, drop
+葉 leaf
+薬 medicine, drugs
+虫 insect, bug
+蝦 lobster
+行 go
+衣 garment, clothes
+表 express; surface
+西 west
+要 need
+見 see, look at, visible
+覚 memorize, remember; awake
+親 parent, intimacy
+観 view, outlook, appearance
+角 angle, corner; horn, antlers
+解 unravel, untie; solve, answer
+計 measure, plot, plan
+訓 instruction
+記 write down, record, account
+試 try, attempt
+話 talk, speak
+語 language, word
+説 theory
+課 section, chapter; department, division
+調 investigate, search; tone
+談 discuss
+講 lecture
+議 deliberation, discussion
+護 defend, safeguard
+象 imitate, pattern after; elephant
+負 lose, defeat
+財 wealth, assets
+貨 freight
+貯 savings
+費 expense, cost
+賀 congratulations, joy; Shiga, Saga
+資 resources, funds, assets
+賛 agree, approve
+賞 prize, reward
+質 substance, quality
+起 wake up, get up
+足 leg, foot
+路 road
+身 somebody, body
+軍 army, military, troops
+転 revolve, rotate
+軽 lightweight; trifling, unimportant
+輪 wheel, ring, loop
+辞 resign, quit; word, term
+農 farming, agriculture
+辺 area, vicinity
+近 near, close
+返 return, repay
+追 follow, chase
+送 send
+逆 reverse, opposite, inverted
+通 pass through, avenue, commute
+速 fast, quick
+逢 meeting (romantic), tryst, date
+連 take along, bring along
+進 advance, proceed, progress
+運 carry, luck
+過 surpass, overdo, exceed
+道 road, street, path, way
+達 attain, accomplish; plural
+遠 far
+選 choose, elect
+部 part, department, club
+都 metropolis
+配 distribute
+酒 alcohol
+酸 acid, sour
+重 heavy; important
+野 field
+量 quantity, amount; measure
+鏡 mirror
+長 long, leader
+開 open
+間 interval of time, space
+関 relation, connection
+阜 Gifu, mound
+阪 Osaka; heights, slope
+限 limit
+院 institution
+陸 land
+険 risky, steep
+陽 sunshine, sunlight
+隊 squad, regiment
+階 floor, storey
+際 occasion; side, edge
+集 collect, gather
+雑 random, miscellaneous
+青 blue
+面 face, surface
+韋 Korea
+順 order, sequence
+頭 head
+額 amount, sum; plaque, framed picture; forehead
+顔 face
+願 request, petition
+類 type, category, kind
+風 wind, air; style, manner
+飛 fly
+飲 drink
+養 foster, bring up
+館 public building, government building
+首 neck
+験 test
+鳴 chirp, ring, cry
+鹿 Kagoshima, deer

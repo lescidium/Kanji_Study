@@ -1,7 +1,7 @@
-Ways to interpret Bushu_Tierlist data:
-1) The Summed score is a good measure of the total value of a given bushu
-2) Truncated count is a good measure of the relative difficulty or size of the task your undertaking
-3) Therefore the efficiency score is just that, a quotient of the two telling you essentially time to value ratio.
+#Ways to interpret Bushu_Tierlist data:
+#1) The Summed score is a good measure of the total value of a given bushu
+#2) Truncated count is a good measure of the relative difficulty or size of the task your undertaking
+#3) Therefore the efficiency score is just that, a quotient of the two telling you essentially time to value ratio.
 
 """
 The efficiency measure alone isn't the best way to rank bushu because if the count is a tiny number
